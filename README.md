@@ -13,4 +13,5 @@ For Data Cleaning and EDA _mySQL_ was used while the visualisations and the dash
 - Predictive modeling for employee turnover
 - Reporting and dashboard creation
 
-HR_analysis_dashboard/
+## Results
+The key findings and results of the analysis are documented in the HR_analysis_dashboard file. Different types of visualizations are used for different data for the best interpretation. 
